@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Question 4) Reverse a number using for Loop.
 public class ReverseTheNumber {
     public static void main(String[]args){
     //this statement will capture the user input
